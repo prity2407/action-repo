@@ -33,7 +33,7 @@ This project demonstrates a simple GitHub webhook listener built using Python (F
 
 1. Clone this repo:
     ```bash
-    git clone https://github.com/yourusername/webhook-repo.git
+    git clone https://github.com/prity2407/webhook-repo.git
     cd webhook-repo
     ```
 
